@@ -13,3 +13,8 @@
    3. Tap the "Locations" button  (top left)
    4. Notice how the highlight of the row "Remote" disappeared
 
+# What I expected
+The row “Remote” stays highlighted.
+
+# What happened
+The highlight disappears and never comes back until you tap the row again.
