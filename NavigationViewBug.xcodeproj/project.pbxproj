@@ -11,6 +11,7 @@
 		7407B2E225F0D9C900E00D2C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7407B2E125F0D9C900E00D2C /* ContentView.swift */; };
 		7407B2E425F0D9CB00E00D2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7407B2E325F0D9CB00E00D2C /* Assets.xcassets */; };
 		7407B2E725F0D9CB00E00D2C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7407B2E625F0D9CB00E00D2C /* Preview Assets.xcassets */; };
+		7407B2F025F0E5E500E00D2C /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 7407B2EF25F0E5E500E00D2C /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		7407B2E325F0D9CB00E00D2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7407B2E625F0D9CB00E00D2C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7407B2E825F0D9CB00E00D2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7407B2EF25F0E5E500E00D2C /* Readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				7407B2DF25F0D9C900E00D2C /* NavigationViewBugApp.swift */,
 				7407B2E125F0D9C900E00D2C /* ContentView.swift */,
+				7407B2EF25F0E5E500E00D2C /* Readme.md */,
 				7407B2E325F0D9CB00E00D2C /* Assets.xcassets */,
 				7407B2E825F0D9CB00E00D2C /* Info.plist */,
 				7407B2E525F0D9CB00E00D2C /* Preview Content */,
@@ -128,6 +131,7 @@
 			files = (
 				7407B2E725F0D9CB00E00D2C /* Preview Assets.xcassets in Resources */,
 				7407B2E425F0D9CB00E00D2C /* Assets.xcassets in Resources */,
+				7407B2F025F0E5E500E00D2C /* Readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
